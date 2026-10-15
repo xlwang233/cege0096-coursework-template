@@ -1,0 +1,10 @@
+# Individual files
+CEGE0096_Coursework_26_27.pdf
+
+/data/
+/output.csv
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
