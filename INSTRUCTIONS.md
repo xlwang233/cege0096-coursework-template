@@ -1,6 +1,6 @@
 # CEGE0096 Coursework 2026/27 — Template Instructions
 
-Read [the coursework guideline](CEGE0096_Coursework_26_27.pdf) for the tasks, assessment, collaboration, and submission requirements. This document adds brief guidance on using the template and writing your project's README.
+Read the coursework guideline (on Moodle) for the tasks, assessment, collaboration, and submission requirements. This document adds brief guidance on using the template and writing your project's README.
 
 ## Using the Template
 
